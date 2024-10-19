@@ -33118,7 +33118,7 @@ function r3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => {
           t(n.data.teacher_mechanic);
         })
@@ -33153,7 +33153,7 @@ function i3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_electronic))
         .catch((n) => console.log(n));
     }),
@@ -33185,7 +33185,7 @@ function s3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_civil))
         .catch((n) => console.log(n));
     }, []),
@@ -33218,7 +33218,7 @@ function o3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_agreculture))
         .catch((n) => console.log(n));
     }, []),
@@ -33251,7 +33251,7 @@ function a3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_forien))
         .catch((n) => console.log(n));
     }, []),
@@ -33284,7 +33284,7 @@ function l3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_foundation))
         .catch((n) => console.log(n));
     }, []),
@@ -33317,7 +33317,7 @@ function u3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_admin))
         .catch((n) => console.log(n));
     }, []),
@@ -33350,7 +33350,7 @@ function c3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_finance))
         .catch((n) => console.log(n));
     }, []),
@@ -33383,7 +33383,7 @@ function d3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_tv))
         .catch((n) => console.log(n));
     }, []),
@@ -33416,7 +33416,7 @@ function f3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_th))
         .catch((n) => console.log(n));
     }, []),
@@ -33449,7 +33449,7 @@ function h3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_iqa))
         .catch((n) => console.log(n));
     }, []),
@@ -33482,7 +33482,7 @@ function p3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_pml))
         .catch((n) => console.log(n));
     }, []),
@@ -33515,7 +33515,7 @@ function m3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_lic))
         .catch((n) => console.log(n));
     }, []),
@@ -33548,7 +33548,7 @@ function g3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_cd))
         .catch((n) => console.log(n));
     }, []),
@@ -34153,7 +34153,7 @@ function x3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_certificate))
         .catch((n) => console.log(n));
     }, []),
