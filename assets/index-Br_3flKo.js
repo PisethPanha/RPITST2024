@@ -32934,7 +32934,7 @@ function t3() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://rpitst2024.great-site.net/teacher.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F/teacher.php")
         .then((n) => t(n.data.teacher_ict))
         .catch((n) => console.log(n));
     }, []),
