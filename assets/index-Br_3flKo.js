@@ -31656,7 +31656,7 @@ function XD() {
   const [e, t] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2Fteacher.php")
+      oe.get("https://rpitst2024.great-site.net/teacher.php")
         .then((n) => {
           t(n.data.teacher_management);
         })
