@@ -31778,7 +31778,7 @@ function QD() {
     [x, g] = I.useState([]);
   return (
     I.useEffect(() => {
-      oe.get("http://localhost/databaseforReact/react.php")
+      oe.get("https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2Freact.php")
         .then((c) => {
           t(c.data.sesmes1),
             r(c.data.sesmes2),
