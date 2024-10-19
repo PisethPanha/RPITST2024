@@ -31700,7 +31700,7 @@ function Ce(e) {
       h.jsx("center", {
         children: h.jsx("img", {
           className: "w-[200px] self-center rounded-lg",
-          src: `https://rpitst2024.great-site.net/${e.img}`,
+          src: `http://localhost/databaseforReact/RPITST_ADMIN/admin_react2/${e.img}`,
         }),
       }),
       h.jsx("div", {
