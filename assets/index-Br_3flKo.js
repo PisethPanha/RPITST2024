@@ -31700,7 +31700,7 @@ function Ce(e) {
       h.jsx("center", {
         children: h.jsx("img", {
           className: "w-[200px] self-center rounded-lg",
-          src: `https://rpitst2024.great-site.net/${e.img}`,
+          src: `https://corsproxy.io/?https%3A%2F%2Frpitst2024.great-site.net%2F${e.img}`,
         }),
       }),
       h.jsx("div", {
